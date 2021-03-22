@@ -1,4 +1,4 @@
-package md.tekwill.homework.asgn;
+package md.tekwill.homework.homework1803;
 
 public class Dinner {
     public static void main(String[] args) {
