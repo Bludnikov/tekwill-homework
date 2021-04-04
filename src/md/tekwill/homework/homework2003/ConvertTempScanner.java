@@ -2,7 +2,7 @@ package md.tekwill.homework.homework2003;
 
 import java.util.Scanner;  // Import the Scanner class
 
-public class ConvertTempScanner {
+public class  ConvertTempScanner {
 
          public static void main(String[] args) {
             Scanner temp = new Scanner(System.in);  // Create a Scanner object
