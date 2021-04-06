@@ -1,23 +1,10 @@
-package md.tekwill.homework.homework3103;
+package md.tekwill.homework.homework2903;
 
 import java.util.Scanner;
 
 public class HouseDevice {
     public static void main(String[] args) {
 
-//        Scanner game = new Scanner(System.in);
-//        String gameInput = game.nextLine();
-//        System.out.println("Please input one of the following options: \"Counter Strike\", \"Dota\", \"Ori\" \"Warcraft\", \"Starcraft\"");
-//
-//        if (deviceInput.equalsIgnoreCase("Counter Strike")) {
-//
-//            switch (deviceInput) {
-//                 case "0":
-//                 System.out.println("The bomb has been planted");
-//                 case "1":
-//                 System.out.println("The bomb has been defused");
-//            }
-//        }
         Scanner input = new Scanner(System.in);
         System.out.println("Please input a number from \"0\" to \"5\" to perform an action.");
         System.out.println("Odd numbers will disable a device, even numbers will enable a device.");

@@ -11,14 +11,6 @@ import java.util.Scanner;
 public class WeekDay {
     public static void main(String[] args) {
 
-//        int mon = 1;
-//        int tue = 2;
-//        int wed = 3;
-//        int thu = 4;
-//        int fri = 5;
-//        int sat = 6;
-//        int sun = 7;
-
         Scanner weekDay = new Scanner(System.in);
         System.out.println("Please input the number of the week day: ");
 

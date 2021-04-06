@@ -1,4 +1,4 @@
-package md.tekwill.homework.homework3103;
+package md.tekwill.homework.homework2903;
 
 import java.util.Scanner;
 
